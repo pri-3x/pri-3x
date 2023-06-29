@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pri-3x&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pri-3x" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pri-3x&&theme=tokyonight" alt="pri-3x" /></p>
+<p>[![GitHub Streak](https://streak-stats.demolab.com?user=pri-3x)](https://git.io/streak-stats)  </p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pri-3x&&theme=tokyonight" alt="pri-3x" /></p> -->
 
 
 
