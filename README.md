@@ -1,8 +1,12 @@
 # Hi, I'm Priyanshu 👋
 
-**Backend & blockchain engineer: Go, Node.js/TypeScript, Solidity.** I build the backend systems that money moves through: trading engines, ledgers, indexers, L1 protocol code and the smart contracts around them.
+**Full-stack engineer, backend-heavy: Go, Node.js/TypeScript, React, Solidity.** I build the backend systems that money moves through (trading engines, ledgers, indexers, L1 protocol code and the smart contracts around them), run the infrastructure they live on, and ship the frontend too.
 
-5 years in production across a regulated tokenization marketplace, two L1 blockchains and an explorer/indexer stack. Based in Gurugram, India · open to backend, platform and blockchain roles (on-site or remote).
+5 years in production across a regulated tokenization marketplace, two L1 blockchains and an explorer/indexer stack.
+
+- **Backend:** APIs, distributed services, workers and data pipelines in Go and Node.js/TypeScript on PostgreSQL and Redis.
+- **Infra & DevOps:** I run production myself: servers, CI/CD and deploy pipelines, Docker and Kubernetes, AWS, monitoring with Prometheus and Grafana. Most of that lives on servers rather than in public repos.
+- **Frontend:** React, Next.js and Tailwind. I move fast with AI-assisted development, so I can take a feature end to end. Based in Gurugram, India · open to backend, platform and blockchain roles (on-site or remote).
 
 [Portfolio](https://pri-folio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/priyanshu-rajput) · [dev.to](https://dev.to/priyanshu_2103)
 
@@ -36,9 +40,10 @@
 ## Toolbox
 
 **Languages:** Go · TypeScript / Node.js · Solidity · Aiken · SQL<br>
+**Frontend:** React · Next.js · Tailwind CSS · wagmi / viem<br>
 **Backend:** Fastify · Express · REST / OpenAPI · WebSockets · PostgreSQL · Redis · Drizzle / Prisma<br>
 **Blockchain:** Ethereum / EVM · Cosmos SDK · Cardano · Hyperledger Besu · Foundry · Hardhat · OpenZeppelin · indexers & explorers<br>
-**Infra:** Docker · Kubernetes (Helm, HPA) · AWS · CI/CD (GitHub Actions) · Prometheus / Grafana · Render · Vercel
+**Infra & DevOps:** AWS · Linux servers · Docker · Kubernetes (Helm, HPA) · CI/CD (GitHub Actions) · Prometheus / Grafana · Render · Vercel
 
 ---
 
