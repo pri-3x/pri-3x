@@ -6,7 +6,9 @@
 
 - **Backend:** APIs, distributed services, workers and data pipelines in Go and Node.js/TypeScript on PostgreSQL and Redis.
 - **Infra & DevOps:** I run production myself: servers, CI/CD and deploy pipelines, Docker and Kubernetes, AWS, monitoring with Prometheus and Grafana. Most of that lives on servers rather than in public repos.
-- **Frontend:** React, Next.js and Tailwind. I move fast with AI-assisted development, so I can take a feature end to end. Based in Gurugram, India · open to backend, platform and blockchain roles (on-site or remote).
+- **Frontend:** React, Next.js and Tailwind. I move fast with AI-assisted development, so I can take a feature end to end.
+
+Based in Gurugram, India · open to full-stack, backend, platform and blockchain roles (on-site or remote).
 
 [Portfolio](https://pri-folio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/priyanshu-rajput) · [dev.to](https://dev.to/priyanshu_2103)
 
